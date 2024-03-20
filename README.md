@@ -1,5 +1,5 @@
-<h1 align="center">Spotify Clone</h1>
-<h3 align="center">Welcome to the Spotify Clone! 🎵</h3>
+<h1 align="center">Spotify Astro</h1>
+<h3 align="center">Welcome to the Spotify Astro! 🎵</h3>
 
 This project is a web application built with Astro, React, Svelte and Tailwind CSS, with the goal of recreating the user interface and functionality of the Spotify platform. The main goal is to master Astro and React, with the audio player logic.
 
