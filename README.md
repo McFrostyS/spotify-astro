@@ -38,4 +38,4 @@ The main objectives of this project include:
 
 Feel free to explore and customize this Spotify Clone according to your preferences and project requirements!
 
-Profesor: Miguel Ángel Durán
+Professor: Miguel Ángel Durán
