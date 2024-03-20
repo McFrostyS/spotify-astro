@@ -16,16 +16,12 @@ The main objectives of this project include:
 <h3 align="left">Languages and Frameworks:</h3>
 
 <p align="left">
+      <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/012e0b1acb66024b07c16516d2bb8908127626ed/apps/bestofjs-nextjs/public/logos/astro.dark.svg" alt="Astro" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-</p>
 
-<h3 align="left">Other Tools:</h3>
-
-<p align="left">
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/></a>
 </p>
 
 ## Getting Started:
